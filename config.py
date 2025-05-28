@@ -1,4 +1,4 @@
-PORT = 443
+PORT = 8080  # ⚠️ Không dùng 443 vì Render free không hỗ trợ
 USERS = {
-    "tguser": "secret123"
+    "tguser": "0123456789abcdef0123456789abcdef"
 }
